@@ -1,0 +1,46 @@
+
+    body{
+        background-color: bisque;
+    }
+    h3{
+        font-size: 24px;
+        text-align: center;
+    }
+    .one{
+        text-align: right;
+        
+    }
+    .paragraph{
+        text-align: right;
+        color: rgb(3, 3, 3);
+        font-size: 20px;
+    }
+    .two{
+        text-align: center;
+        font-size: 22px;
+    }
+    h2{
+        text-align: left;
+        font-size: 20px;
+    }
+    a{
+        color: black;
+    }
+
+    .pointer-link{
+        cursor: pointer;
+    }
+
+    /* Footer part */
+.copyright p{
+    font-size: 40px; 
+    text-align: center; 
+    width: 100%;
+    padding: 30px;
+    font-weight: 300;
+    background-color: gray; 
+    margin-top: 20px;
+}
+#more {
+    display: none;
+}
