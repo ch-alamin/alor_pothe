@@ -1,0 +1,32 @@
+body{
+    background-color: rgb(202, 197, 238);
+}
+h3{
+
+    text-align: left;
+    font-size: 27px;
+}
+
+p{
+   
+    margin: 3%;
+    font-size: 22px;
+    line-height: 1.7;
+}
+
+h2{
+    text-align: center;
+    font-size: 250%;
+    color: rgb(37, 11, 129);
+}
+.j{
+    font-size: 200%;
+    color: rgb(14, 58, 8);
+}
+.misty{
+    padding: -0.1;
+    text-align:left;
+}
+#more {
+    display: none;
+}
